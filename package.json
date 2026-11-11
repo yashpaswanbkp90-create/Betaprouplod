@@ -1,0 +1,8 @@
+{
+  "name": "betadrop-cloud-enterprise",
+  "version": "3.0.0",
+  "main": "betadrop_server.cjs",
+  "scripts": {
+    "start": "node betadrop_server.cjs"
+  }
+}
